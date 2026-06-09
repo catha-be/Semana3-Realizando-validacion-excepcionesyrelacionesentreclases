@@ -31,7 +31,7 @@ Este proyecto corresponde a los avances de la Semana 3 de la asignatura *Desarro
 1. Clona el repositorio desde GitHub:
 
 ```bash
-git clone [Pega aquí el enlace de tu repositorio]
+git clone https://github.com/catha-be/Semana3-Realizando-validacion-excepcionesyrelacionesentreclases.git
 ```
 
 2. Abre el proyecto (carpeta `Semana_3`) en tu entorno de desarrollo, como IntelliJ IDEA.
@@ -44,8 +44,8 @@ git clone [Pega aquí el enlace de tu repositorio]
 
 ---
 
-**Repositorio GitHub:** [Pega aquí el enlace al repositorio]
-**Fecha de entrega:** [DD/MM/YYYY]
+**Repositorio GitHub:** https://github.com/catha-be/Semana3-Realizando-validacion-excepcionesyrelacionesentreclases
+**Fecha de entrega:** 08/06/2026
 
 ---
 
